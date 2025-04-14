@@ -27,7 +27,7 @@ to start on a specific port run:
 
 In your `.vimrc`:
 ```
-Plug 'andreypopp/julia-repl-vim'
+Plug 'kewiechecki/julia-repl-vim'
 ```
 to install the editor plugin.
 

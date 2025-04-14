@@ -53,5 +53,5 @@ command -range -bar -nargs=0 JuliaREPLSendRegion
       \| call s:send_op(visualmode(), 1)
       \| call s:restore_cur()
 
-nmap <leader>e :JuliaREPLSend<cr>
-xmap <leader>e :JuliaREPLSendRegion<cr>
+"nnoremap <leader>e :JuliaREPLSend<cr>
+"xnoremap <leader>e :JuliaREPLSendRegion<cr>
